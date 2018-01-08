@@ -1,0 +1,16 @@
+[
+  {
+    "repository":  "device_zuk_msm8996-common",
+    "target_path": "device/zuk/msm8996-common"
+  },
+  {
+    "repository":  "vendor_zuk",
+    "target_path": "vendor/zuk"
+  },
+  {
+    "remote":      "github",
+    "repository":  "DD3Boh/android_kernel_zuk_msm8996",
+    "target_path": "kernel/zuk/msm8996",
+    "branch":      "Octopus"
+  }
+]
