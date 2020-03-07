@@ -1,0 +1,7 @@
+[
+  {
+    "repository": "device_zuk_msm8996-common",
+    "target_path": "device/zuk/msm8996-common",
+    "branch": "ten-plus"
+  }
+]
